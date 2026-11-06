@@ -1,0 +1,33 @@
+Bivariate Analysis:
+
+-> In bivariate analysis, there will be involvement of 2 variables.
+
+-> One variable will be treated as an independent variable (X) and other variable (y) will be treated as an output variable/ dependent variable.
+
+X (hrs)      y (marks)
+
+5               90
+7               90
+10              90
+
+Covariance:
+
+Covariance helps to find the measurable value between dependent and independent variable.
+
+Correlation:
+
+Correlation helps to find the direction for both dependent and independent variables.
+
+-> Correlation decides the direction on the basis of range values.
+
+-> Range: -1 to +1
+
+-1 refers to negative correlation where if X variable increases / decreases y variable will do the opposite of it.
+
+0 refers to no correlation / 0 correlation where if X variable increase / decreases there is no change of direction observed in y-variable
+
++1 refers to positive correlation where if X variable increases/decreases, y variable moves in the same direction.
+
+Sample Covariance & Sample Correlation
+
+Cov(X,y) = summation(X)*(y)/n-1
